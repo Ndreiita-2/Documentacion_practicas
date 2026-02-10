@@ -33,3 +33,63 @@ equipo:
 
 Inicio -> Configuración -> Sistema -> Recuperación -> Restablecer el equipo
 
+![](https://github.com/user-attachments/assets/3717d18a-ac54-4708-a514-04f73b8554a8)
+
+- Una vez restaurado e iniciado, creamos el usuario local “admin-mtda” con contraseña M*tda-78+17
+
+- Elegimos el Navegador predeterminado que tendrá el usuario, preferiblemente Edge
+
+- Agregamos la impresora llamada Ricoh e instalamos los drivers que le correspondan:
+
+Inicio -> Configuración -> Bluetooth y dispositivos -> Impresoras y escáneres -> Agregar dispositivo -> RICOH MP 5055
+
+- Agregamos el antivirus Bitdefender (lo encontramos en la carpeta de red compartida)
+
+Win+R y ejecutamos “\\192.168.0.5\mtda\Tecnologia\Software\Bitdefender\W10”
+
+- Le cambiamos el nombre al dispositivo y le ponemos el que le va a identificar respecto a los otros equipos.
+
+![](https://github.com/user-attachments/assets/3bd11193-3862-44ce-b2cb-3ae35a81da0a)
+
+- Meterlo en el dominio de la empresa:
+
+Configuración -> Grupo de trabajo -> Cambiar -> MTDA.local
+
+- Instalamos las siguientes herramientas:
+
+7zip
+
+Supremo
+
+Herramientas -> Opciones
+
+![](https://github.com/user-attachments/assets/a2624d8d-033f-41b8-b306-94cc4bfcd368)
+
+Herramientas -> Seguridad -> Contraseña secundaria
+
+![](https://github.com/user-attachments/assets/d0e6a75c-a663-42c3-aaa1-2c910710f01e)
+
+OpenOffice
+
+Foxit
+
+SonicWall NetxTender
+
+Server 80.59.97.245:4433
+
+Dominio MTDA
+
+Teams (Microsoft Store)
+
+SGA
+
+Win+R y ejecutamos “\\192.168.0.5\mtda\Varios\SGA_MTDA”
+
+Instalamos el certificado
+
+![](https://github.com/user-attachments/assets/e19200aa-5e7a-44d7-bab7-2366a12f9432)
+
+Seguidamente entramos al link de Versión nueva SGA e instalamos
+
+![](https://github.com/user-attachments/assets/e3572001-dcbe-42fc-9294-3da2f54dd37a)
+
