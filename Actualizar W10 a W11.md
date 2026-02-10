@@ -57,9 +57,9 @@ Configuración -> Grupo de trabajo -> Cambiar -> MTDA.local
 
 - Instalamos las siguientes herramientas:
 
-7zip
+[7zip](https://7-zip.org/download.html)
 
-Supremo
+[Supremo](https://www.supremocontrol.com/es/descarga-supremo/windows/)
 
 Herramientas -> Opciones
 
@@ -69,11 +69,11 @@ Herramientas -> Seguridad -> Contraseña secundaria
 
 ![](https://github.com/user-attachments/assets/d0e6a75c-a663-42c3-aaa1-2c910710f01e)
 
-OpenOffice
+[OpenOffice](https://www.openoffice.org/es/descargar/)
 
-Foxit
+[Foxit](https://www.foxit.com/es/pdf-reader/)
 
-SonicWall NetxTender
+[SonicWall NetxTender](https://www.sonicwall.com/products/remote-access/vpn-clients)
 
 Server 80.59.97.245:4433
 
