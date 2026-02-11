@@ -35,7 +35,7 @@ equipo:
 
 ![](https://github.com/user-attachments/assets/3717d18a-ac54-4708-a514-04f73b8554a8)
 
-Una vez restaurado e iniciado, creamos el usuario local “admin-mtda” con contraseña M*tda-78+17
+Una vez restaurado e iniciado, creamos el usuario local “admin-mtda”.
 
 El navegador que vamos a preferir como predeterminado será Edge.
 
