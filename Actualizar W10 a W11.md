@@ -51,7 +51,7 @@ Win+R y ejecutamos “\\192.168.0.5\mtda\Tecnologia\Software\Bitdefender\W10”
 
 ![](https://github.com/user-attachments/assets/3bd11193-3862-44ce-b2cb-3ae35a81da0a)
 
-- Meterlo en el dominio de la empresa:
+- Lo metemos en el dominio de la empresa:
 
 Configuración -> Grupo de trabajo -> Cambiar -> MTDA.local
 
