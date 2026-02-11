@@ -69,6 +69,8 @@ Herramientas -> Seguridad -> Contraseña secundaria
 
 ![](https://github.com/user-attachments/assets/d0e6a75c-a663-42c3-aaa1-2c910710f01e)
 
+Apuntamos el ID
+
 [OpenOffice](https://www.openoffice.org/es/descargar/)
 
 [Foxit](https://www.foxit.com/es/pdf-reader/)
